@@ -41,7 +41,7 @@ prosperando no mercado de bicicletas
 
 
 <div align ="center">
-<img src = "modeloconceitual.png">
+<img src ="modeloConceitual.png">
 </div>
 
 
