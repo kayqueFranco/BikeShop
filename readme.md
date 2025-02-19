@@ -47,5 +47,5 @@ prosperando no mercado de bicicletas
 
 ### Banco de Dados
 <div align ="center">
-<img src="dbbike.png">
+<img src="img/bancodedados.png">
 </div>
